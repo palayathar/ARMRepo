@@ -20,6 +20,6 @@ steps:
     location: 'UK South'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/palayathar/ARMRepo/main/createwebapp/azuredeploy.json'
-    overrideParameters: '-projectName myarmpipe'
+    overrideParameters: '-projectName createwebapp'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate.'
